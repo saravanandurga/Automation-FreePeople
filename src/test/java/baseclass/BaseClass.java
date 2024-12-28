@@ -15,19 +15,19 @@ public class BaseClass {
 		System.out.println("3");
 	}
 	
-	private void tamilNadu() {
+	private void method4() {
 		
-		System.out.println("tamil");
+		System.out.println("4");
 	}
 	
-	private void andra() {
+	private void method5() {
 		
-		System.out.println("telugu");
+		System.out.println("5");
 	}
 	
-	private void kerala() {
+	private void method6() {
 		
-		System.out.println("malayalam");
+		System.out.println("6");
 	}
 	
 	
